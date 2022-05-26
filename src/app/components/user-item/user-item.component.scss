@@ -1,0 +1,12 @@
+.user-item-container {
+  padding: 20px;
+  width: 50px;
+  border: 1px solid blue;
+   text-align: center;
+   margin: 10px;
+
+&:hover{
+  cursor: pointer;
+  background-color: brown;
+}
+}
